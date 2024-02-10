@@ -1,3 +1,3 @@
 ## SQL Codes
 
-Gathered all my codes from tutorials.
+Gathered all my codes . 
